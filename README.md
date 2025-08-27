@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🌱 I’m currently learning **C & PHP**
-- ⚡ Fun fact: I love \***\*music\*\***
+**I'm Keanu** (he/him) – a front-end developer who loves experimenting with creative coding challenges like CSS Battles. I enjoy building and designing websites, bringing ideas to life with clean and simple interfaces. Outside of tech, I have a deep love for music—singing and playing the guitar are some of my favorite ways to express creativity.
+
 - 📫 How to reach me: **Instagram** => @zyiosk :shipit:
+
+### I Code with:
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=github,html,css,c,javascript,tailwind,bootstrap&theme=light&perline=4" />
+</p>
